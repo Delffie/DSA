@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Delffie/DSA/tree/master/0011-container-with-most-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Delffie/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Delffie/DSA/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/Delffie/DSA/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/Delffie/DSA/tree/master/0917-boats-to-save-people) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Delffie/DSA/tree/master/0011-container-with-most-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Delffie/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Delffie/DSA/tree/master/0189-rotate-array) |
 | [0917-boats-to-save-people](https://github.com/Delffie/DSA/tree/master/0917-boats-to-save-people) |
 ## Greedy
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Delffie/DSA/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Delffie/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
