@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Delffie/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Delffie/DSA/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/Delffie/DSA/tree/master/0567-permutation-in-string) |
+| [1894-merge-strings-alternately](https://github.com/Delffie/DSA/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Delffie/DSA/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/Delffie/DSA/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/Delffie/DSA/tree/master/0917-boats-to-save-people) |
+| [1894-merge-strings-alternately](https://github.com/Delffie/DSA/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
