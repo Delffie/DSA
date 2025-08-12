@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Delffie/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Delffie/DSA/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Delffie/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Delffie/DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Delffie/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Delffie/DSA/tree/master/0229-majority-element-ii) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Delffie/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Delffie/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Delffie/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Delffie/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Delffie/DSA/tree/master/0344-reverse-string) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Delffie/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Delffie/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Delffie/DSA/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Delffie/DSA/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Delffie/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Delffie/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Delffie/DSA/tree/master/0169-majority-element) |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Delffie/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Delffie/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Delffie/DSA/tree/master/0229-majority-element-ii) |
 | [0917-boats-to-save-people](https://github.com/Delffie/DSA/tree/master/0917-boats-to-save-people) |
