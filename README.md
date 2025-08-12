@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Delffie/DSA/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/Delffie/DSA/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/Delffie/DSA/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/Delffie/DSA/tree/master/0917-boats-to-save-people) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Delffie/DSA/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/Delffie/DSA/tree/master/0189-rotate-array) |
 | [0917-boats-to-save-people](https://github.com/Delffie/DSA/tree/master/0917-boats-to-save-people) |
 ## Greedy
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/Delffie/DSA/tree/master/0917-boats-to-save-people) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Delffie/DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
