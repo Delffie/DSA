@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Delffie/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Delffie/DSA/tree/master/0238-product-of-array-except-self) |
 | [0917-boats-to-save-people](https://github.com/Delffie/DSA/tree/master/0917-boats-to-save-people) |
+| [2058-concatenation-of-array](https://github.com/Delffie/DSA/tree/master/2058-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Delffie/DSA/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Delffie/DSA/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
