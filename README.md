@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Delffie/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Delffie/DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Delffie/DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Delffie/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Delffie/DSA/tree/master/0229-majority-element-ii) |
 | [0567-permutation-in-string](https://github.com/Delffie/DSA/tree/master/0567-permutation-in-string) |
 ## String
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Delffie/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Delffie/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Delffie/DSA/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Delffie/DSA/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Delffie/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Delffie/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Delffie/DSA/tree/master/0680-valid-palindrome-ii) |
