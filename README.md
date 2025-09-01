@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Delffie/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Delffie/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Delffie/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0812-rotate-string](https://github.com/Delffie/DSA/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/Delffie/DSA/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/Delffie/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Delffie/DSA/tree/master/2058-concatenation-of-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Delffie/DSA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
