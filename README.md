@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Delffie/DSA/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Delffie/DSA/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Delffie/DSA/tree/master/0258-add-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/Delffie/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -122,9 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Delffie/DSA/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/Delffie/DSA/tree/master/2058-concatenation-of-array) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Delffie/DSA/tree/master/0812-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Delffie/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
