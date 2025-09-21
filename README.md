@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Delffie/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Delffie/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Delffie/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Delffie/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Delffie/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Delffie/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Delffie/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Delffie/DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Delffie/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Delffie/DSA/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Delffie/DSA/tree/master/0283-move-zeroes) |
 | [0917-boats-to-save-people](https://github.com/Delffie/DSA/tree/master/0917-boats-to-save-people) |
 | [2058-concatenation-of-array](https://github.com/Delffie/DSA/tree/master/2058-concatenation-of-array) |
 ## Greedy
