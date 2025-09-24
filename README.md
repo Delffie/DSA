@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Delffie/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Delffie/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Delffie/DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Delffie/DSA/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/Delffie/DSA/tree/master/0567-permutation-in-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Delffie/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Delffie/DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Delffie/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Delffie/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Delffie/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Delffie/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Delffie/DSA/tree/master/0485-max-consecutive-ones) |
 | [0917-boats-to-save-people](https://github.com/Delffie/DSA/tree/master/0917-boats-to-save-people) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Delffie/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Delffie/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Delffie/DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Delffie/DSA/tree/master/0268-missing-number) |
 | [0917-boats-to-save-people](https://github.com/Delffie/DSA/tree/master/0917-boats-to-save-people) |
 ## Math
 |  |
@@ -93,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Delffie/DSA/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Delffie/DSA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Delffie/DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Delffie/DSA/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Delffie/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Delffie/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Delffie/DSA/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -153,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/Delffie/DSA/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Delffie/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Delffie/DSA/tree/master/2087-confirmation-rate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Delffie/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
